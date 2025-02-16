@@ -16,6 +16,7 @@
 // console.log(Math.PI);
 // console.log(Math.abs(-88)); // can not vary minas--
 // console.log(Math.abs(5 - 10)); // can not vary minas--
+// console.log(Math.round(0.45)); // ans 0 because--
 // console.log(Math.round(0.95)); // ans 1 because--
 // console.log(Math.floor(2.99888)); // out the .99888--
 // console.log(Math.random());
